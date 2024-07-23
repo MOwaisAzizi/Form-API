@@ -1,0 +1,21 @@
+.posts {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}.Navbar{
+  background-color: none;
+  color: rgb(237, 41, 237);
+  text-align: center;
+}.Navbar ul{
+  text-decoration: none;
+  list-style: none;
+}.Navbar ul li{
+  list-style: none;
+  display: inline-block;
+  margin: 10px;
+}li a{
+  text-decoration: none;
+  color: inherit;
+}

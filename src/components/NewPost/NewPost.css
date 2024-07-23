@@ -1,0 +1,42 @@
+.new-post {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px 0;
+  box-shadow: 0 0 25px 5px rgba(0, 0, 0, 0.07);
+  text-align: center;
+}
+
+.new-post h2 {
+  color: #8e24aa;
+}
+
+.new-post label {
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+  color: #9c27b0;
+}
+
+.new-post input,
+.new-post textarea,
+.new-post select {
+  display: block;
+  width: 80%;
+  box-sizing: border-box;
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  outline: none;
+  font: inherit;
+  margin: auto;
+}
+
+.new-post button {
+  margin: 45px 0;
+  padding: 10px;
+  font: inherit;
+  border: none;
+  border-radius: 3px;
+  background-color: #9c27b0;
+  color: #ffffff;
+  cursor: pointer;
+}
